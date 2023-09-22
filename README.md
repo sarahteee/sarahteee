@@ -1,4 +1,4 @@
-![banner](banner.jpg)
+![banner](images.jpg) "my first banner"
 - 👋 Hi, I’m @sarahteee
 - 👀 I’m interested in learning languages (spoken and code)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, C#
