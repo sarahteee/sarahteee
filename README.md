@@ -1,5 +1,5 @@
 <picture>
-  <img alt="new banner" src="newbanner.png">
+  <img alt="new banner" src="banner.jpg">
 </picture>
 - 👋 Hi, I’m @sarahteee
 - 👀 I’m interested in learning languages (spoken and code)
