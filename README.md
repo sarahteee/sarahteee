@@ -1,4 +1,6 @@
-![newbanner](newbanner.png) 
+<picture>
+  <img alt="new banner" src="newbanner.png">
+</picture>
 - 👋 Hi, I’m @sarahteee
 - 👀 I’m interested in learning languages (spoken and code)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, C#
