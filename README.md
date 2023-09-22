@@ -1,4 +1,5 @@
-<img src="newbanner.png">
+<img src="newbanner.png" alt="decorative profile banner" width=1600 height=500>
+
 - 👋 Hi, I’m @sarahteee
 - 👀 I’m interested in learning languages (spoken and code)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, C#
