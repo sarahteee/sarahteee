@@ -1,4 +1,4 @@
-<img src="finalgifbanner.gif" alt="decorative profile banner">
+<img src="finalgifbanner.gif" alt="decorative profile banner" height=200>
 
 - 👋 Hi, I’m @sarahteee
 - 👀 I’m interested in learning languages (spoken and code)
