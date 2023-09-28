@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, C#
 - 💞️ I’m looking to collaborate on upcoming projects
 - 📫 Reach me via email itssaraht@live.com
+  
   <img src="wave.gif" alt="waving smiley face emoticon" width=32 height=32>
 
 <!---
