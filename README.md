@@ -1,6 +1,6 @@
 <img src="finalgifbanner.gif" alt="decorative profile banner" height=200>
 
-#My Very First README!
+# My Very First README!
 - 👋 Hi! I’m @sarahteee
 - 👀 I’m interested in learning languages (spoken and code)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, C#
