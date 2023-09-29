@@ -1,6 +1,7 @@
 <img src="finalgifbanner.gif" alt="decorative profile banner" height=200>
 
-- 👋 Hi, I’m @sarahteee
+#My Very First README!
+- 👋 Hi! I’m @sarahteee
 - 👀 I’m interested in learning languages (spoken and code)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, C#
 - 💞️ I’m looking to collaborate on upcoming projects
